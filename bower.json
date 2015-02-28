@@ -1,0 +1,5 @@
+{
+  "name": "parallax.js",
+  "description": "jQuery plugin image scroll",
+  "main": "./parallax.js"
+}
